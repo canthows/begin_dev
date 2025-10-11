@@ -1,0 +1,24 @@
+header{
+	/* css cua header */
+	background: green;
+}
+header.tren{
+	/* css cua header */
+	background: green;
+}
+header.duoi{
+	/* css cua header */
+	background: green;
+}
+
+div.phai{
+	background: blue;
+}
+
+thuongde{
+	color: red;
+}
+span.so1{
+	font-size: 58px; background: #ccc;
+}
+
