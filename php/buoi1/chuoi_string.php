@@ -27,7 +27,8 @@ header('Content-Type: text/html; charset=utf-8');
 	echo $chi_so;
 	
 	// Tìm chuỗi trong chuỗi
-	$chuoi_cha = "Hôm nay trời đẹp, abc là chuỗi cần tìm.";
+	$chuoi_cha = "Hôm nay trời đẹp, abc là chuỗi cần tìm, abcxyz là chuỗi con dài hơn.";
 	$chuoi_con = "abc";
 	
 	echo "<br>Tìm thấy chuỗi <strong>{$chuoi_con}</strong> tại vị trí: ".strpos($chuoi_cha, $chuoi_con)."";
+	echo "<br>Số lần chuỗi <strong>{$chuoi_con}</strong> xuất hiện: ".substr_count($chuoi_cha, $chuoi_con)."";
