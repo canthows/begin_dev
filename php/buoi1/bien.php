@@ -16,3 +16,7 @@
 ?>
 
 <br><strong>Tính tổng là:</strong> <?php echo $tinh_tong; ?>
+
+<?php
+$tenbien = "xin chào";
+?>
