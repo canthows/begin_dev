@@ -29,3 +29,5 @@ header('Content-Type: text/html; charset=utf-8');
 	// Tìm chuỗi trong chuỗi
 	$chuoi_cha = "Hôm nay trời đẹp, abc là chuỗi cần tìm.";
 	$chuoi_con = "abc";
+	
+	echo "<br>Tìm thấy chuỗi <strong>{$chuoi_con}</strong> tại vị trí: ".strpos($chuoi_cha, $chuoi_con)."";
