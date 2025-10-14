@@ -27,3 +27,19 @@
     - Min, max ( array single)
     - Sort array (sort, rsort)
     - Function array
+	  - implode
+	  - explode
+	  - push
+	  - unsset
+	  - array_merge
+	  - shuffle
+	  - array_random
+- Điều kiện, Vòng Lặp
+  - If Else
+  - If short ( Ternary operator) ? : 
+  - If nhiều điều kiện, VD bài toán kiểm tra file upload
+  - Switch case
+  - For loop
+  - While loop
+  - Foreach loop
+- Hàm ( Function )
