@@ -1,4 +1,4 @@
-# PHP Cơ bản
+# PHP Cơ bản - [Tutorial](https://canthows.github.io/begin_dev/learn-php)
 
 ## Biến, Chuỗi, Mảng
 
