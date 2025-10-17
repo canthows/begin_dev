@@ -4,9 +4,9 @@ header('Content-Type: text/html; charset=utf-8');
 <head>
   <meta charset="UTF-8">
 </head>
-
+<body>
 <?php
-	echo "Đây là bài chuỗi<br>";
+	echo "<h1>Đây là bài chuỗi</h1>";
 	
 	$chuoi = "hôm NAY trời đẹp quá, mưa bỏ mẹ";
 	$chuoi2 = "xin chao cac ban";
@@ -16,7 +16,7 @@ header('Content-Type: text/html; charset=utf-8');
 	
 	echo $chuoi;
 	
-	echo strlen($chuoi)."<br>";
+	echo "<br>Độ dài của chuỗi là: " . strlen($chuoi)."<br>";
 	
 	echo "Chuyển thành chữ hoa: ".mb_strtoupper($chuoi, 'UTF-8');
 	echo "<br>Chuyển thành chữ thường: ".strtolower($chuoi);
