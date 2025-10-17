@@ -173,14 +173,15 @@ for ($i = 1; $i <= 5; $i++) {
 
 ---
 
+💡 **Gợi ý thêm:**  
+Khi viết điều kiện hoặc vòng lặp, luôn đảm bảo **có điều kiện dừng rõ ràng** để tránh lặp vô hạn.
+
+---
+
 ## 🎯 Bài tập thực hành
 
 1. Viết chương trình kiểm tra xem một số `$n` là **chẵn** hay **lẻ**.  
 2. In ra các số từ 1 đến 100, **bỏ qua** các số chia hết cho 5.  
 3. Tạo một mảng tên học sinh, dùng `foreach` để in lời chào cho từng học sinh.  
 
----
-
-💡 **Gợi ý thêm:**  
-Khi viết điều kiện hoặc vòng lặp, luôn đảm bảo **có điều kiện dừng rõ ràng** để tránh lặp vô hạn.
 ---
