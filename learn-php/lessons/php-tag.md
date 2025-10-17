@@ -1,4 +1,4 @@
-## Cấu trúc
+# Cấu trúc
 
 Trong các file PHP, thẻ PHP được dùng để mở và đóng phần mã PHP. Mọi đoạn mã nằm giữa hai thẻ này sẽ được máy chủ (server) thực thi, còn phần nằm ngoài sẽ được hiển thị nguyên văn ra trình duyệt (thường là HTML).
 
