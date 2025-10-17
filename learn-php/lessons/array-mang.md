@@ -1,4 +1,4 @@
-# Bài học PHP: Mảng (Array)
+# 📚 Mảng (Array) trong PHP
 
 ## 1. Mảng là gì?
 Mảng là một cấu trúc dữ liệu lưu trữ nhiều giá trị trong một biến duy nhất. Mỗi giá trị được truy cập thông qua một chỉ số (index) hoặc khóa (key).
