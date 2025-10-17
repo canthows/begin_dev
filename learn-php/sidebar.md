@@ -2,7 +2,7 @@
 - [Thẻ PHP](lessons/php-tag)
 - [Biến số (variables)](lessons/variables-bien)
 - [Hằng số (const)](lessons/const-hang-so)
-- [Chuỗi (strings)](lessons/chuoi-strings)
-- [Mảng (Array)](lessons/chuoi-strings)
+- [Chuỗi (strings)](lessons/strings-chuoi)
+- [Mảng (Array)](lessons/array-mang)
 
 

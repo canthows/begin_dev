@@ -27,8 +27,8 @@ echo PI; // Kết quả: 3.14
 
 ```php
 <?php
-const SITE_NAME = "TTSFree.com";
-echo SITE_NAME; // Kết quả: TTSFree.com
+const SITE_NAME = "YourDomain.com";
+echo SITE_NAME; // Kết quả: YourDomain.com
 ?>
 ```
 
