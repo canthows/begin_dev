@@ -50,7 +50,7 @@
 Cách cài đặt các bạn tự tìm hiểu Video trên mạng rất nhiều! Ở đây chỉ tập trung viết code thôi.
 ## License
 
-This project is licensed under the [MIT license](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE).
+This project is licensed under the [MIT license](https://github.com/canthows/begin_dev/blob/main/LICENSE).
 
 Themes base on [Docsify](https://docsify.js.org) and [Docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable).
 
