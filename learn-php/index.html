@@ -80,6 +80,24 @@
       };
     </script>
     <script src="assets/js/main.js"></script>
+	
+	<script>
+	// ⚙️ Chỉ xóa dữ liệu cache của Docsify, không xóa toàn bộ localStorage domain
+	for (let key in localStorage) {
+		if (key.startsWith('docsify.') || key.startsWith('search.')) {
+		  localStorage.removeItem(key);
+		  console.log('🧹 Cleared:', key);
+		}
+	}
+
+	// Xóa cache của Service Worker (nếu có)
+	if ('caches' in window) {
+		caches.keys().then(keys => {
+		  keys.forEach(key => caches.delete(key));
+		  console.log('🧹 Cleared cache storage.');
+		});
+	}
+	</script>
 
     <!-- Docsify current release  -->
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
