@@ -21,6 +21,8 @@
 	
 	Quan trọng nhất là **Tư Duy** của bạn để tìm cách làm cho nó hoạt động.
 	
+	Bất kể thằng PRO nào cũng từ GÀ mà đi lên. Kaka
+	
 ## PHP hoạt động như thế nào?
 
 	PHP là ngôn ngữ phía máy chủ (server-side language), nghĩa là mã PHP được xử lý trên máy chủ trước khi gửi đến trình duyệt.
