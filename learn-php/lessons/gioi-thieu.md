@@ -1,4 +1,4 @@
-## PHP Căn bản
+# PHP Căn bản
 
 - **Dự án PHP Basic cho người mới bắt đầu**<br>
   Thư viện này sẽ đi từ cơ bản nhất cho người mới học lập trình PHP để có thể làm ra một trang web.
