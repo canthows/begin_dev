@@ -54,4 +54,4 @@ This project is licensed under the [MIT license](https://github.com/canthows/beg
 
 Themes base on [Docsify](https://docsify.js.org) and [Docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable).
 
-Copyright (c) canthows ([@canthows](https://github.com/canthows))
+Copyright (c) canthows ([@canthows](https://github.com/canthows)).
