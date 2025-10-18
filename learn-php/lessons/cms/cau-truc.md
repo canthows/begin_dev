@@ -69,8 +69,8 @@ Chứa các giao diện (view/templates) có thể chuyển đổi.
 
 ---
 
-## 📦 Thành phần chính và trách nhiệm  
-| Thành phần       | Vị trí thư mục            | Trách nhiệm chính                                |
+## 📦 Thành phần chính và nhiệm vụ
+| Thành phần       | Vị trí thư mục            | Nhiệm vụ chính                                |
 |------------------|---------------------------|--------------------------------------------------|
 | `config.php`     | `/includes/`              | Định nghĩa hằng số, đường dẫn, cấu hình chung.  |
 | `database.php`   | `/includes/`              | Kết nối và xử lý database.                       |
