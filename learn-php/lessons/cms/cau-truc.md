@@ -61,9 +61,9 @@ Chứa các giao diện (view/templates) có thể chuyển đổi.
 1. Người dùng truy cập URL, ví dụ: `https://yourdomain.com/home`  
 2. `index.php` nhận request và xác định module hiện hành.  
 3. `index.php` load file cấu hình từ `/includes/config.php`.  
-4. `index.php` tìm trong `/modules/{module_name}/` các file chức năng (_controls.php, _view.php).  
-5. `_controls.php` xử lý logic, dữ liệu.  
-6. `_view.php` lấy dữ liệu từ `_controls.php` để render giao diện.  
+4. `index.php` tìm trong `/modules/home/` các file chức năng (home_controls.php, home_view.php).  
+5. `home_controls.php` xử lý logic, dữ liệu.  
+6. `home_view.php` lấy dữ liệu từ `_controls.php` để render giao diện.  
 7. Trả về HTML cho người dùng.  
 8. Các tài nguyên tĩnh (CSS/JS) được phục vụ từ `/assets/`.
 
