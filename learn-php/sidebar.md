@@ -13,7 +13,7 @@
 - [Tương tác với File](lessons/dang-build)
 - [API, Ajax](lessons/dang-build)
 - **💻 Xây dựng CMS**
-- [Cấu Trúc Hệ Thống](lessons/dang-build)
+- [Cấu Trúc Hệ Thống](lessons/cms/cau-truc)
 - [Dashboard](lessons/dang-build)
 - [Login, Logout](lessons/dang-build)
 - [User Manage](lessons/dang-build)
