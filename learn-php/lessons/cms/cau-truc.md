@@ -63,7 +63,7 @@ Chứa các giao diện (view/templates) có thể chuyển đổi.
 3. `index.php` load file cấu hình từ `/includes/config.php`.  
 4. `index.php` tìm trong `/modules/home/` các file chức năng (home_controls.php, home_view.php).  
 5. `home_controls.php` xử lý logic, dữ liệu.  
-6. `home_view.php` lấy dữ liệu từ `_controls.php` để render giao diện.  
+6. `home_view.php` lấy dữ liệu từ `home_controls.php` để render giao diện.  
 7. Trả về HTML cho người dùng.  
 8. Các tài nguyên tĩnh (CSS/JS) được phục vụ từ `/assets/`.
 
