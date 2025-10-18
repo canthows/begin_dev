@@ -4,7 +4,7 @@
 
 ## 📁 Cấu trúc thư mục chính  
 
-Dưới đây là sơ đồ thư mục theo dạng cây giúp dễ quan sát hơn:
+Dưới đây là sơ đồ thư mục và các file của dự án:
 
 ```
 mini_cms/
