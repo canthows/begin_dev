@@ -6,5 +6,19 @@
 - [Mảng (Array)](lessons/array-mang)
 - [Logic, Vòng lặp](lessons/dieu-kien-vong-lap)
 - [Hàm (Function)](lessons/function-ham)
+- [POST, GET, COOKIE, SESSION](lessons/dang-build)
+- [Include, Require PHP](lessons/dang-build)
+- [Kết nối Database](lessons/dang-build)
+- **💡 Mở Rộng**
+- [Tương tác với File](lessons/dang-build)
+- [API, Ajax](lessons/dang-build)
+- **💻 Xây dựng CMS**
+- [Cấu Trúc Hệ Thống](lessons/dang-build)
+- [Dashboard](lessons/dang-build)
+- [Login, Logout](lessons/dang-build)
+- [User Manage](lessons/dang-build)
+- [Post Manage](lessons/dang-build)
+- **Links**
+- [![Github](https://img.icons8.com/ios-glyphs/30/000000/github.png)Github](https://github.com/canthows/begin_dev)
 
 

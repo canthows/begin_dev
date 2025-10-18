@@ -5,7 +5,7 @@
   Nó không bao gồm tất cả các kiến thức từ A tới Z của PHP nhưng nó sẽ chọn lọc những thứ cơ bản và thường sử dụng nhất.
   Các kiến thức nâng cao sẽ từ từ được đề cập tới trong quá trình Build sản phẩm.
   
-- **Không có code NGU, chỉ có code CHẠY hay KHÔNG CHẠY**<br>
+- **Không có khái niệm code NGU, chỉ có code CHẠY hay KHÔNG CHẠY**<br>
 	- Code **chạy được**: Thiên tài  
 	- Code **chạy nhưng không hiểu tại sao**: Huyền thoại  
 	- Code **không chạy mà vẫn deploy**: Siêu nhân  
