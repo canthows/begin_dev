@@ -1,3 +1,4 @@
+- **`</>` PHP Basic**
 - [Giới thiệu](lessons/gioi-thieu)
 - [Thẻ PHP](lessons/php-tag)
 - [Biến số (variables)](lessons/variables-bien)
@@ -6,8 +7,9 @@
 - [Mảng (Array)](lessons/array-mang)
 - [Logic, Vòng lặp](lessons/dieu-kien-vong-lap)
 - [Hàm (Function)](lessons/function-ham)
-- [POST, GET, COOKIE, SESSION](lessons/dang-build)
-- [Include, Require PHP](lessons/dang-build)
+- [POST, GET, COOKIE, SESSION](lessons/php_post_get_cookie_session)
+- [Include, Require PHP](lessons/php_include_require)
+- **<img src="https://cdn-icons-png.flaticon.com/128/660/660478.png" height="16" style="vertical-align: text-bottom;" /> MYSQL Database**
 - [Kết nối Database](lessons/dang-build)
 - **💡 Mở Rộng**
 - [Tương tác với File](lessons/dang-build)
