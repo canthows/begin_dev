@@ -10,7 +10,8 @@
 - [POST, GET, COOKIE, SESSION](lessons/php_post_get_cookie_session)
 - [Include, Require PHP](lessons/php_include_require)
 - **<img src="https://cdn-icons-png.flaticon.com/128/660/660478.png" height="16" style="vertical-align: text-bottom;" /> MYSQL Database**
-- [Kết nối Database](lessons/dang-build)
+- [MySQL Cơ bản](lessons/crud_trong_php_mysql)
+- [MySQL Mở rộng](lessons/crud_trong_php_mysql)
 - **💡 Mở Rộng**
 - [Tương tác với File](lessons/dang-build)
 - [API, Ajax](lessons/dang-build)
