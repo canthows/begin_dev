@@ -23,7 +23,6 @@ Kết quả:
 Xin chào!
 ```
 
----
 
 ## 2. Hàm có tham số
 Hàm có thể nhận các giá trị đầu vào (tham số).
@@ -43,7 +42,6 @@ Kết quả:
 Xin chào, CaRo!
 ```
 
----
 
 ## 3. Hàm có giá trị trả về (return)
 Bạn có thể trả về một giá trị từ hàm bằng từ khóa `return`.
@@ -64,7 +62,6 @@ Kết quả:
 8
 ```
 
----
 
 ## 4. Tham số mặc định
 Bạn có thể gán giá trị mặc định cho tham số. Nếu khi gọi hàm không truyền giá trị, PHP sẽ dùng giá trị mặc định.
@@ -86,7 +83,6 @@ Xin chào, Khách!
 Xin chào, CaRo!
 ```
 
----
 
 ## 5. Biến cục bộ và biến toàn cục
 - **Biến cục bộ**: chỉ tồn tại trong phạm vi của hàm.
@@ -110,4 +106,3 @@ Kết quả:
 Website: YourDomainName.com
 ```
 
----

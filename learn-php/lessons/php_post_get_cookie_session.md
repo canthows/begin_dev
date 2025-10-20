@@ -5,7 +5,6 @@ chủ)** thường diễn ra thông qua **biến toàn cục** như `$_GET`, `$_
 `$_COOKIE`, và `$_SESSION`. Đây là các công cụ cơ bản giúp bạn lưu trữ
 và truyền dữ liệu trong quá trình người dùng tương tác với trang web.
 
-------------------------------------------------------------------------
 
 ## 🚀 1. Phương thức GET
 
@@ -31,7 +30,6 @@ echo "Tên: $name, Tuổi: $age";
 -   GET có giới hạn độ dài (tùy trình duyệt, khoảng 2000 ký tự)
 -   Không nên dùng GET cho dữ liệu nhạy cảm (như mật khẩu)
 
-------------------------------------------------------------------------
 
 ## 📨 2. Phương thức POST
 
@@ -61,7 +59,6 @@ echo "Xin chào, $name!";
 -   POST an toàn hơn GET
 -   Không giới hạn dung lượng dữ liệu (tùy cấu hình server)
 
-------------------------------------------------------------------------
 
 ## 🍪 3. COOKIE trong PHP
 
@@ -98,7 +95,6 @@ setcookie('username', '', time() - 3600);
 -   Cookie lưu trên máy người dùng
 -   Có thể bị chỉnh sửa =\> không nên lưu thông tin quan trọng
 
-------------------------------------------------------------------------
 
 ## 🔐 4. SESSION trong PHP
 
@@ -140,7 +136,6 @@ session_destroy(); // Xóa toàn bộ session
     timeout)
 -   PHP quản lý session qua **PHPSESSID** (một cookie tự động tạo ra)
 
-------------------------------------------------------------------------
 
 ## 🧠 Tổng kết
 

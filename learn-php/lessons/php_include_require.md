@@ -4,9 +4,8 @@ Trong lập trình PHP, các hàm **`include`** và **`require`** dùng để
 **chèn nội dung của một file khác** vào file hiện tại. Điều này giúp
 chia nhỏ mã nguồn thành các phần dễ quản lý, tái sử dụng và bảo trì.
 
-------------------------------------------------------------------------
 
-#### Tại sao cần dùng include / require
+#### Tại sao cần dùng include / require:  
 
 Thay vì viết lại cùng một đoạn mã (như header, footer, menu...) trong
 nhiều file, bạn có thể đặt chúng vào một file riêng và **gọi lại khi
@@ -21,7 +20,6 @@ Ví dụ:
 Sau đó trong các trang khác (như `index.php`, `about.php`) chỉ cần
 include file tương ứng.
 
-------------------------------------------------------------------------
 
 ## 🔹 include
 
@@ -48,7 +46,6 @@ include 'footer.php';
 -   Nếu file không tồn tại, PHP **chỉ cảnh báo (warning)** và **vẫn tiếp
     tục chạy** phần còn lại của mã.
 
-------------------------------------------------------------------------
 
 ## 🔸 require
 
@@ -76,7 +73,6 @@ echo "Đang chạy website!";
 -   Thường dùng `require` cho **file quan trọng** như cấu hình, kết nối
     CSDL...
 
-------------------------------------------------------------------------
 
 ## ⚙️ include_once và require_once
 
@@ -99,26 +95,17 @@ require_once 'config.php';
 
 Tương tự, nhưng dừng chương trình nếu file không tồn tại.
 
-------------------------------------------------------------------------
 
-## ⇄ So sánh
 
-  --------------------------------------------------------------------------------
-  Lệnh           Khi file không tồn tại   Có thể gọi nhiều lần   Thường dùng cho
-  -------------- ------------------------ ---------------------- -----------------
-  include        Cảnh báo, tiếp tục chạy  ✅                     Header, Footer
+## ⇄ So sánh  
 
-  require        Dừng chương trình        ✅                     Cấu hình quan
-                                                                 trọng
+| Lệnh          | Khi file không tồn tại   | Có thể gọi nhiều lần | Thường dùng cho             |
+|----------------|--------------------------|----------------------|-----------------------------|
+| include        | Cảnh báo, tiếp tục chạy  | ✅                   | Header, Footer              |
+| require        | Dừng chương trình        | ✅                   | Cấu hình quan trọng         |
+| include_once   | Cảnh báo, bỏ qua nếu trùng | ❌                 | Các hàm hoặc thư viện phụ   |
+| require_once   | Dừng chương trình, bỏ qua nếu trùng | ❌       | File cấu hình chính         |
 
-  include_once   Cảnh báo, bỏ qua nếu     ❌                     Các hàm hoặc thư
-                 trùng                                           viện phụ
-
-  require_once   Dừng chương trình, bỏ    ❌                     File cấu hình
-                 qua nếu trùng                                   chính
-  --------------------------------------------------------------------------------
-
-------------------------------------------------------------------------
 
 ## 💬 Ví dụ thực tế
 
@@ -157,7 +144,6 @@ include 'footer.php';
 Khi chạy `index.php`, nội dung 3 file sẽ **được hợp nhất lại** thành một
 trang hoàn chỉnh.
 
-------------------------------------------------------------------------
 
 #### Tổng kết
 
