@@ -6,7 +6,7 @@
 Nếu kết nối thất bại (ví dụ sai mật khẩu hoặc tên database), chương trình sẽ dừng lại và hiển thị thông báo lỗi.  
 ```php
 <?php
-$conn = new mysqli('localhost', 'root', '', 'testdb');
+$conn = new mysqli('localhost', 'root', 'pass', 'testdb');
 if ($conn->connect_error) {
     die('Kết nối thất bại: ' . $conn->connect_error);
 }

@@ -11,7 +11,8 @@
 - [Include, Require PHP](lessons/php_include_require)
 - **<img src="https://cdn-icons-png.flaticon.com/128/660/660478.png" height="16" style="vertical-align: text-bottom;" /> MYSQL Database**
 - [MySQL Cơ bản](lessons/crud_trong_php_mysql)
-- [MySQL Mở rộng](lessons/crud_trong_php_mysql)
+- [MySQL WHERE, ORDER, LIMIT](lessons/mysql_search_order_limit)
+- [MySQL JOIN](lessons/select_join)
 - **💡 Mở Rộng**
 - [Tương tác với File](lessons/dang-build)
 - [API, Ajax](lessons/dang-build)
