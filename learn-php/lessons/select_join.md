@@ -41,6 +41,11 @@ Kết quả:
 
 #### <span style="font-size:2em; font-weight:bold;">Các loại JOIN:</span>  
 
+
+Hình dưới đây mô tả trực quan các loại JOIN phổ biến giữa hai bảng:  
+
+![Sơ đồ JOIN trong MySQL](https://media.geeksforgeeks.org/wp-content/uploads/20200314221726/JOIN.jpg)
+
 ## 1️⃣ INNER JOIN
 Chỉ lấy những bản ghi có dữ liệu **trùng khớp ở cả hai bảng**.  
 `INNER JOIN` tương tự với lệnh `JOIN`    
