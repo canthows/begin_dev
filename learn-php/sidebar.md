@@ -14,8 +14,8 @@
 - [MySQL WHERE, ORDER, LIMIT](lessons/mysql_search_order_limit)
 - [MySQL JOIN](lessons/select_join)
 - **💡 Mở Rộng**
-- [Tương tác với File](lessons/dang-build)
-- [API, Ajax](lessons/dang-build)
+- [Tương tác với File](lessons/mo-rong/tuong-tac-voi-file)
+- [API, Ajax](lessons/mo-rong/api-ajax)
 - **💻 Xây dựng CMS**
 - [Cấu Trúc Hệ Thống](lessons/cms/cau-truc)
 - [Dashboard](lessons/dang-build)
