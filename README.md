@@ -43,3 +43,5 @@
   - While loop
   - Foreach loop
 - Hàm ( Function )
+
+[Xem Full](https://canthows.github.io/begin_dev/learn-php)
