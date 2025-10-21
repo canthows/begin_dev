@@ -2,7 +2,7 @@
 
 Trong MySQL, **JOIN** dùng để **kết hợp dữ liệu từ nhiều bảng** dựa trên mối quan hệ giữa các cột của chúng.
 
-Ví dụ, bạn có hai bảng:
+Giả sử có hai bảng như sau:
 
 #### Bảng `users`  
 
